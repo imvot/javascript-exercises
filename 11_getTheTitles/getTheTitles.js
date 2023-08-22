@@ -1,4 +1,5 @@
 const getTheTitles = function(books) {
+    // Exactly the same
     return books.map(book => book.title)
 };
 
